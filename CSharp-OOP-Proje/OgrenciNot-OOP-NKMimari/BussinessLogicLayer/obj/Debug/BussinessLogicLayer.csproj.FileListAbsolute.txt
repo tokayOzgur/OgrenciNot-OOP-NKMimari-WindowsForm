@@ -1,0 +1,11 @@
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\bin\Debug\EntityLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\bin\Debug\FacadeLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\bin\Debug\EntityLayer.pdb
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\bin\Debug\FacadeLayer.pdb
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.AssemblyReference.cache
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CopyComplete
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb

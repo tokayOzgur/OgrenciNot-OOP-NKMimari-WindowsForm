@@ -1,0 +1,6 @@
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\EntityLayer\bin\Debug\EntityLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\EntityLayer\obj\Debug\EntityLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\EntityLayer\obj\Debug\EntityLayer.pdb

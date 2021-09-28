@@ -1,0 +1,17 @@
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\bin\Debug\OgrenciNot-OOP-NKMimari.exe.config
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\bin\Debug\OgrenciNot-OOP-NKMimari.exe
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\bin\Debug\OgrenciNot-OOP-NKMimari.pdb
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\bin\Debug\BussinessLogicLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\bin\Debug\EntityLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\bin\Debug\FacadeLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\bin\Debug\BussinessLogicLayer.pdb
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\bin\Debug\EntityLayer.pdb
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\bin\Debug\FacadeLayer.pdb
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\obj\Debug\OgrenciNot-OOP-NKMimari.csproj.AssemblyReference.cache
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\obj\Debug\OgrenciNot_OOP_NKMimari.Form1.resources
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\obj\Debug\OgrenciNot_OOP_NKMimari.Properties.Resources.resources
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\obj\Debug\OgrenciNot-OOP-NKMimari.csproj.GenerateResource.cache
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\obj\Debug\OgrenciNot-OOP-NKMimari.csproj.CoreCompileInputs.cache
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\obj\Debug\OgrenciNot-OOP-NKMimari.csproj.CopyComplete
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\obj\Debug\OgrenciNot-OOP-NKMimari.exe
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\OgrenciNot-OOP-NKMimari\obj\Debug\OgrenciNot-OOP-NKMimari.pdb

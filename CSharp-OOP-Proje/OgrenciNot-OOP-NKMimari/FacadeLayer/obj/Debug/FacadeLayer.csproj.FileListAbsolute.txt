@@ -1,0 +1,9 @@
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\FacadeLayer\bin\Debug\FacadeLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\FacadeLayer\bin\Debug\FacadeLayer.pdb
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\FacadeLayer\bin\Debug\EntityLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\FacadeLayer\bin\Debug\EntityLayer.pdb
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\FacadeLayer\obj\Debug\FacadeLayer.csproj.AssemblyReference.cache
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\FacadeLayer\obj\Debug\FacadeLayer.csproj.CoreCompileInputs.cache
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\FacadeLayer\obj\Debug\FacadeLayer.csproj.CopyComplete
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\FacadeLayer\obj\Debug\FacadeLayer.dll
+E:\Orenda\Uygulamar\CSharp-OOP-Proje\OgrenciNot-OOP-NKMimari\FacadeLayer\obj\Debug\FacadeLayer.pdb
